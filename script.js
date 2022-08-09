@@ -5,7 +5,6 @@ const audios = {
 
 function initAudios() {
     const soms = Object.keys(audios)
-    debugger
     soms.map((som) => {
         let audio = new Audio(audios[som]);
         audio.volume = 0;
