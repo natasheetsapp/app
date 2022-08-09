@@ -18,7 +18,7 @@ p {
     font-size: 60px;
     text-align: center;
     font-weight: bold;
-    margin-bottom: 130px;
+    margin-bottom: 130px!important;
 }
 
 .group-button {
